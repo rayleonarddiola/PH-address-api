@@ -15,10 +15,10 @@ export default async function Index() {
 
 console.log(data);
   return data?.users.map((user) => 
-    <div key={user.id}>
+    <li key={user.id.toString()}>
     <Link href={'detail/'+ user.id}>
       <h2> {user.name} </h2>
   </Link>
-    </div>)
+    </li>)
   
 }
