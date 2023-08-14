@@ -6,7 +6,7 @@ import styles from './page.module.css'
 
 
 export async function getProvinces() {
-  const res = await fetch('http://localhost:3000/api/address',{ next: { revalidate: 5 } })
+  const res = await fetch('https://ph-address-api.vercel.app/api/address',{ next: { revalidate: 5 } })
  
  const provinces = await res.json()
  
@@ -21,7 +21,7 @@ export default function Home() {
 
   useEffect(() => {
     const fetchCourses = async () => {
-      const res = await fetch('http://localhost:3000/api/address',{ next: { revalidate: 5 } });
+      const res = await fetch('https://ph-address-api.vercel.app/api/address',{ next: { revalidate: 5 } });
       const result = await res.json();
       setdata(result);
     
