@@ -1,0 +1,1076 @@
+{
+"users":[
+    { 
+         "id": 1, 
+         "name" : "John Doe",
+         "username": "johndoe",
+         "email" : "johndoe@gmail.com"  
+    },
+    {
+         "id": 2, 
+         "name" : "Lelouch Vi Britannia",
+         "username": "Lelouch",
+         "email" : "lelouch@gmail.com"  
+    },
+    {
+         "id": 3, 
+         "name" : "AllMighty",
+         "username": "allmighty",
+         "email" : "allmighty@gmail.com"  
+    },
+    {
+         "id": 4, 
+         "name" : "Johny Bravo",
+         "username": "johnybravo",
+         "email" : "johnybravo@gmail.com"  
+    },
+    {
+         "id": 5, 
+         "name" : "Jose Rizal",
+         "username": "jose",
+         "email" : "jose@gmail.com"  
+    },
+        {
+         "id": 6, 
+         "name" : "Juan dela Cruz",
+         "username": "juan",
+         "email" : "juan@gmail.com"  
+    }
+
+],
+"regions":[
+        {
+            "id": 1,
+            "name": "Region I - Ilocos Region"
+        },
+        {
+            "id": 2,
+            "name": "Region II - Cagayan Valley"
+        },
+        {
+            "id": 3,
+            "name": "Region III - Central Luzon"
+        },
+        {
+            "id": 4,
+            "name": "Region IV-A CALABARZON"
+        },
+        {
+            "id": 5,
+            "name": "MIMAROPA Region"
+        },
+        {
+            "id": 6,
+            "name": "Region V - Bicol Region"
+        },
+        {
+            "id": 7,
+            "name": "Region VI - Western Visayas"
+        },
+        {
+            "id": 8,
+            "name": "Region VII - Central Visayas"
+        },
+        {
+            "id": 9,
+            "name": "Region VIII - Eastern Visayas"
+        },
+        {
+            "id": 10,
+            "name": "Region IX - Zamboanga Peninsula"
+        },
+        {
+            "id": 11,
+            "name": "Region X - Northern Mindanao"
+        },
+        {
+            "id": 12,
+            "name": "Region XI - Davao Region"
+        },
+        {
+            "id": 13,
+            "name": "Region XII - SOCCSKSARGEN"
+        },
+        {
+            "id": 14,
+            "name": "Region XIII - Caraga"
+        },
+        {
+            "id": 15,
+            "name": "National Capital Region"
+        },
+        {
+            "id": 16,
+            "name": "CAR - Cordillera Administrative Region"
+        },
+        {
+            "id": 17,
+            "name": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao"
+        }
+
+],
+"provinces":[
+        {
+            "id": 1,
+            "fid": 1,
+            "name": "Ilocos Norte"
+        },
+        {
+            "id": 2,
+            "fid": 1,
+            "name": "Ilocos Sur"
+        },
+        {
+            "id": 3,
+            "fid": 1,
+            "name": "La Union"
+        },
+             {
+            "id": 4,
+            "fid": 1,
+            "name": "Pangasinan"
+        },
+             {
+            "id": 5,
+            "fid": 2,
+            "name": "Batanes"
+        },
+        {
+            "id": 6,
+            "fid": 2,
+            "name": "Cagayan"
+        },
+        {
+            "id": 7,
+            "fid": 2,
+            "name": "Isabela"
+        },
+        {
+            "id": 8,
+            "fid": 2,
+            "name": "Nueva Vizcaya"
+        },
+        {
+            "id": 9,
+            "fid": 2,
+            "name": "Quirino"
+        },
+           {
+            "id": 10,
+            "fid": 3,
+            "name": "Aurora"
+        },
+           {
+            "id": 11,
+            "fid": 3,
+            "name": "Bataan"
+        },
+                        {
+            "id": 12,
+            "fid": 3,
+            "name": "Bulacan"
+        },
+           {
+            "id": 13,
+            "fid": 3,
+            "name": "Nueva Ecija"
+        },
+        {
+            "id": 14,
+            "fid": 3,
+            "name": "Pampanga"
+        },
+           {
+            "id": 15,
+            "fid": 3,
+            "name": "Tarlac"
+        },
+           {
+            "id": 16,
+            "fid": 3,
+            "name": "Zambales"
+        },
+               {
+            "id": 17,
+            "fid": 4,
+            "name": "Batangas"
+        },
+                     {
+            "id": 18,
+            "fid": 4,
+            "name": "Cavite"
+        },
+    
+        {
+            "id": 19,
+            "fid": 4,
+            "name": "Laguna"
+        },
+                     {
+            "id": 20,
+            "fid": 4,
+            "name": "Quezon"
+        },
+                     {
+            "id": 21,
+            "fid": 4,
+            "name": "Rizal"
+        },
+         {
+            "id": 22,
+            "fid": 5,
+            "name": "Albay"
+        },
+                     {
+            "id": 23,
+            "fid": 5,
+            "name": "Camarines Norte"
+        },
+                     {
+            "id": 24,
+            "fid": 5,
+            "name": "Camarines Sur"
+        },
+                       {
+            "id": 25,
+            "fid": 5,
+            "name": "Catanduanes"
+        },
+                     {
+            "id": 26,
+            "fid": 5,
+            "name": "Masbate"
+        },
+                       {
+            "id": 27,
+            "fid": 5,
+            "name": "Occidental Mindoro"
+        },
+                       {
+            "id": 28,
+            "fid": 5,
+            "name": "Oriental Mindoro"
+        },
+        {
+            "id": 29,
+            "fid": 5,
+            "name": "Palawan"
+        },
+           {
+            "id": 30,
+            "fid": 5,
+            "name": "Romblon"
+        },
+                     {
+            "id": 31,
+            "fid": 5,
+            "name": "Sorsogon"
+        },
+                             {
+            "id": 32,
+            "fid": 6,
+            "name": "Aklan"
+        },
+                       {
+            "id": 33,
+            "fid": 6,
+            "name": "Antique"
+        },
+    
+        {
+            "id": 34,
+            "fid": 6,
+            "name": "Capiz"
+        },
+                                     {
+            "id": 35,
+            "fid": 6,
+            "name": "Guimaras"
+        },
+                       {
+            "id": 36,
+            "fid": 6,
+            "name": "Iloilo"
+        },
+            {
+                    
+            "id": 37,
+            "fid": 6,
+            "name": "Negros Occidental"
+        },
+                             {
+            "id": 38,
+            "fid": 7,
+            "name": "Bohol"
+        },
+                                     {
+            "id": 39,
+            "fid": 7,
+            "name": "Cebu"
+        },
+                       {
+            "id": 40,
+            "fid": 7,
+            "name": "Negros Oriental"
+        },
+            {
+                    
+            "id": 41,
+            "fid": 7,
+            "name": "Siquijor"
+        },
+                               {
+            "id": 42,
+            "fid": 8,
+            "name": "Biliran"
+        },
+            {
+                    
+            "id": 43,
+            "fid": 8,
+            "name": "Eastern Samar"
+        },
+            {
+            "id": 44,
+            "fid": 8,
+            "name": "Leyte"
+        },
+            {
+            "id": 45,
+            "fid": 8,
+            "name": "Northern Samar"
+        },
+             {
+            "id": 46,
+            "fid": 8,
+            "name": "Samar"
+        },
+            {
+                    
+            "id": 47,
+            "fid": 8,
+            "name": "Southern Leyte"
+        },
+            {
+            "id": 48,
+            "fid": 9,
+            "name": "Zambonga del Norte"
+        },
+                       {
+            "id": 49,
+            "fid": 9,
+            "name": "Zambonga del Sur"
+        },
+            {
+                    
+            "id": 50,
+            "fid": 9,
+            "name": "Zambonga Sibugay"
+        },
+                     {
+            "id": 51,
+            "fid": 10,
+            "name": "Bukidnon"
+        },
+            {
+                    
+            "id": 52,
+            "fid": 10,
+            "name": "Camiguin"
+        },
+            {
+            "id": 53,
+            "fid": 10,
+            "name": "Lanao del Norte"
+        },
+                       {
+            "id": 54,
+            "fid": 10,
+            "name": "Misamis Occidental"
+        },
+            {
+                    
+            "id": 55,
+            "fid": 10,
+            "name": "Misamis Oriental"
+        },
+                             {
+            "id": 56,
+            "fid": 11,
+            "name": "Davao de Oro"
+        },
+            {
+                    
+            "id": 57,
+            "fid": 11,
+            "name": "Davao del Norte"
+        },
+            {
+            "id": 58,
+            "fid": 11,
+            "name": "Davao del Sur"
+        },
+                       {
+            "id": 59,
+            "fid": 11,
+            "name": "Davao Occidental"
+        },
+            {
+                    
+            "id": 60,
+            "fid": 11,
+            "name": "Davao Oriental"
+        },
+        {
+                    
+            "id": 61,
+            "fid": 12,
+            "name": "Cotabato"
+        },
+            {
+            "id": 62,
+            "fid": 12,
+            "name": "Sarangani"
+        },
+                       {
+            "id": 63,
+            "fid": 12,
+            "name": "South Cotabato"
+        },
+            {
+                    
+            "id": 64,
+            "fid": 12,
+            "name": "Sultan Kudarat"
+        },
+            {
+                    
+            "id": 65,
+            "fid": 13,
+            "name": "National Capital Region"
+        },
+                               {
+            "id": 66,
+            "fid": 14,
+            "name": "Abra"
+        },
+            {
+                    
+            "id": 67,
+            "fid": 14,
+            "name": "Apayao"
+        },
+            {
+            "id": 68,
+            "fid": 14,
+            "name": "Benguet"
+        },
+                       {
+            "id": 69,
+            "fid": 14,
+            "name": "Ifugao"
+        },
+            {
+                    
+            "id": 70,
+            "fid": 14,
+            "name": "Kalinga"
+        },
+            {
+                    
+            "id": 71,
+            "fid": 14,
+            "name": "Mountain Province"
+        },
+                {
+                    
+            "id": 72,
+            "fid": 15,
+            "name": "Basilan"
+        },
+            {
+            "id": 73,
+            "fid": 15,
+            "name": "Lanao del Sur"
+        },
+                       {
+            "id": 74,
+            "fid": 15,
+            "name": "Maguindanao del Norte"
+        },
+                {
+            "id": 75,
+            "fid": 15,
+            "name": "Maguindanao del Sur"
+        },
+
+            {
+                    
+            "id": 76,
+            "fid": 15,
+            "name": "Sulu"
+        },
+            {
+                    
+            "id": 77,
+            "fid": 15,
+            "name": "Tawi-Tawi"
+        },
+         {
+                    
+            "id": 78,
+            "fid": 16,
+            "name": "Agusan del Norte"
+        },
+        {
+                    
+            "id": 79,
+            "fid": 16,
+            "name": "Agusan del Sur"
+        },
+
+        {
+            "id": 80,
+            "fid": 16,
+            "name": "Dinagat Islands"
+        },
+            {
+                    
+            "id": 81,
+            "fid": 16,
+            "name": "Surigao del Norte"
+        },
+            {
+                    
+            "id": 82,
+            "fid": 16,
+            "name": "Surigao del Sur"
+        }
+
+],
+"municipalities":[
+        {
+          "id": 1,
+          "fid": "Bulacan",
+          "name": "Angat"   
+        },
+        {
+          "id": 2,
+          "fid": "Bulacan",
+          "name": "Balagtas"   
+        },
+        {
+          "id": 3,
+          "fid": "Bulacan",
+          "name": "Baliwag"   
+        },
+    
+        {
+          "id": 4,
+          "fid": "Bulacan",
+          "name": "Bocaue"   
+        },
+        {
+          "id": 5,
+          "fid": "Bulacan",
+          "name": "Bulakan"   
+        },
+        {
+          "id": 6,
+          "fid": "Bulacan",
+          "name": "Balagtas"   
+        },
+        {
+          "id": 7,
+          "fid": "Bulacan",
+          "name": "Bustos"   
+        },
+    
+        {
+          "id": 8,
+          "fid": "Bulacan",
+          "name": "Calumpit"   
+        },
+                {
+          "id": 9,
+          "fid": "Bulacan",
+          "name": "Doña Remedios Trinidad"   
+        },
+        {
+          "id": 10,
+          "fid": "Bulacan",
+          "name": "Guiguinto"   
+        },
+        {
+          "id": 11,
+          "fid": "Bulacan",
+          "name": "Hagonoy"   
+        },
+    
+        {
+          "id": 12,
+          "fid": "Bulacan",
+          "name": "Malolos"   
+        },
+                {
+          "id": 13,
+          "fid": "Bulacan",
+          "name": "Marilao"   
+        },
+        {
+          "id": 14,
+          "fid": "Bulacan",
+          "name": "Meycauayan"   
+        },
+        {
+          "id": 15,
+          "fid": "Bulacan",
+          "name": "Norzagaray"   
+        },
+    
+        {
+          "id": 16,
+          "fid": "Bulacan",
+          "name": "Obando"   
+        },
+                {
+          "id": 17,
+          "fid": "Bulacan",
+          "name": "Pandi"   
+        },
+        {
+          "id": 18,
+          "fid": "Bulacan",
+          "name": "Paombong"   
+        },
+        {
+          "id": 19,
+          "fid": "Bulacan",
+          "name": "Plaridel"   
+        },
+    
+        {
+          "id": 20,
+          "fid": "Bulacan",
+          "name": "San Ildefonso"   
+        },
+                {
+          "id": 21,
+          "fid": "Bulacan",
+          "name": "San Jose del Monte City"   
+        },
+        {
+          "id": 22,
+          "fid": "Bulacan",
+          "name": "San Miguel"   
+        },
+        {
+          "id": 23,
+          "fid": "Bulacan",
+          "name": "San Rafael"   
+        },
+    
+        {
+          "id": 24,
+          "fid": "Bulacan",
+          "name": "Santa Maria"   
+        },
+
+
+        {
+          "id": 577,
+          "fid": "National Capital Region",
+          "name": "Caloocan City"   
+        },
+        {
+          "id": 6,
+          "fid": "National Capital Region",
+          "name": "Las Piñas City"   
+        },
+             {
+          "id": 7,
+          "fid":  "National Capital Region",
+          "name": "Makati City"   
+        },
+        {
+          "id": 8,
+          "fid":  "National Capital Region",
+          "name": "Malabon"   
+        },
+          {
+          "id": 9,
+          "fid": "National Capital Region",
+          "name": "Mandaluyong"   
+        },
+        {
+          "id": 10,
+          "fid": "National Capital Region",
+          "name": "Manila City"   
+        },
+             {
+          "id": 11,
+          "fid":  "National Capital Region",
+          "name": "Marikina City"   
+        },
+        {
+          "id": 12,
+          "fid":  "National Capital Region",
+          "name": "Muntinlupa City"   
+        },
+          {
+          "id": 13,
+          "fid": "National Capital Region",
+          "name": "Navotas"   
+        },
+        {
+          "id": 14,
+          "fid": "National Capital Region",
+          "name": "Parañaque City"   
+        },
+             {
+          "id": 15,
+          "fid":  "National Capital Region",
+          "name": "Pasa City"   
+        },
+        {
+          "id": 16,
+          "fid":  "National Capital Region",
+          "name": "Pasig"   
+        },
+          {
+          "id": 17,
+          "fid": "National Capital Region",
+          "name": "Quezon City"   
+        },
+        {
+          "id": 18,
+          "fid": "National Capital Region",
+          "name": "San Juan City"   
+        },
+             {
+          "id": 19,
+          "fid":  "National Capital Region",
+          "name": "Taguig City"   
+        },
+             {
+          "id": 20,
+          "fid":  "National Capital Region",
+          "name": "Valenzuela City"   
+        }
+    
+],
+"barangays":[
+        {
+          "id": 1,
+          "fid": "San Jose del Monte City",
+          "name": "Ciudad Real"   
+        },
+        {
+          "id": 2,
+          "fid": "San Jose del Monte City",
+          "name": "Dulong Bayan"   
+        },
+        {
+          "id": 3,
+          "fid": "San Jose del Monte City",
+          "name": "Guijo (Francisco Homes)"   
+        },
+        {
+          "id": 4,
+          "fid": "San Jose del Monte City",
+          "name": "Mulawin (Francisco Homes)"   
+        },
+        {
+          "id": 5,
+          "fid": "San Jose del Monte City",
+          "name": "Narra (Francisco Homes)"   
+        },
+        {
+          "id": 6,
+          "fid": "San Jose del Monte City",
+          "name": "Yakal (Francisco Homes)"   
+        },
+        {
+          "id": 7,
+          "fid": "San Jose del Monte City",
+          "name": "Gaya-Gaya"   
+        },
+        {
+          "id": 8,
+          "fid": "San Jose del Monte City",
+          "name": "Graceville"   
+        },
+        {
+          "id": 9,
+          "fid": "San Jose del Monte City",
+          "name": "Gumaoc Central"   
+        },
+        {
+          "id": 10,
+          "fid": "San Jose del Monte City",
+          "name": "Gumaoc East"   
+        },
+                {
+          "id": 11,
+          "fid": "San Jose del Monte City",
+          "name": "Gumaoc West"   
+        },
+        {
+          "id": 12,
+          "fid": "San Jose del Monte City",
+          "name": "Kaybanban"   
+        },
+        {
+          "id": 13,
+          "fid": "San Jose del Monte City",
+          "name": "Kaypian"   
+        },
+        {
+          "id": 14,
+          "fid": "San Jose del Monte City",
+          "name": "Maharlika"   
+        },
+        {
+          "id": 15,
+          "fid": "San Jose del Monte City",
+          "name": "Muzon East"   
+        },
+                {
+          "id": 16,
+          "fid": "San Jose del Monte City",
+          "name": "Muzon Proper"   
+        },
+        {
+          "id": 17,
+          "fid": "San Jose del Monte City",
+          "name": "Muzon South"   
+        },
+        {
+          "id": 18,
+          "fid": "San Jose del Monte City",
+          "name": "Muzon West"   
+        },
+        {
+          "id": 19,
+          "fid": "San Jose del Monte City",
+          "name": "Paradise III"   
+        },
+        {
+          "id": 20,
+          "fid": "San Jose del Monte City",
+          "name": "Poblacion"   
+        },
+                {
+          "id": 21,
+          "fid": "San Jose del Monte City",
+          "name": "Poblacion I"   
+        },
+        {
+          "id": 22,
+          "fid": "San Jose del Monte City",
+          "name": "San Isidro"   
+        },
+        {
+          "id": 23,
+          "fid": "San Jose del Monte City",
+          "name": "San Manuel"   
+        },
+        {
+          "id": 24,
+          "fid": "San Jose del Monte City",
+          "name": "San Roque"   
+        },
+        {
+          "id": 25,
+          "fid": "San Jose del Monte City",
+          "name": "Santo Cristo"   
+        },
+                {
+          "id": 26,
+          "fid": "San Jose del Monte City",
+          "name": "Tungkong Mangga"   
+        },
+        {
+          "id": 27,
+          "fid": "San Jose del Monte City",
+          "name": "Minuyan I (Area A)"   
+        },
+        {
+          "id": 28,
+          "fid": "San Jose del Monte City",
+          "name": "Minuyan II (Area A)"   
+        },
+        {
+          "id": 29,
+          "fid": "San Jose del Monte City",
+          "name": "Minuyan III (Area A)"   
+        },
+        {
+          "id": 30,
+          "fid": "San Jose del Monte City",
+          "name": "Minuyan IV (Area A)"   
+        },
+        {
+          "id": 31,
+          "fid": "San Jose del Monte City",
+          "name": "Minuya V (Area A)"   
+        },
+        {
+          "id": 32,
+          "fid": "San Jose del Monte City",
+          "name": "Bagong Buhay I (Area B)"   
+        },
+        {
+          "id": 33,
+          "fid": "San Jose del Monte City",
+          "name": "Bagong Buhay II (Area B)"   
+        },
+        {
+          "id": 34,
+          "fid": "San Jose del Monte City",
+          "name": "Bagong Buhay III (Area B)"   
+        },
+        {
+          "id": 35,
+          "fid": "San Jose del Monte City",
+          "name": "San Martin I (Area C)"   
+        },
+        {
+          "id": 36,
+          "fid": "San Jose del Monte City",
+          "name": "San Martin II (Area C)"   
+        },
+        {
+          "id": 37,
+          "fid": "San Jose del Monte City",
+          "name": "San Martin III (Area C)"   
+        },
+        {
+          "id": 38,
+          "fid": "San Jose del Monte City",
+          "name": "San Martin IV (Area C)"   
+        },
+        {
+          "id": 39,
+          "fid": "San Jose del Monte City",
+          "name": "Santa Cruz I (Area D)"   
+        },
+        {
+          "id": 40,
+          "fid": "San Jose del Monte City",
+          "name": "Santa Cruz II (Area D)"   
+        },
+        {
+          "id": 41,
+          "fid": "San Jose del Monte City",
+          "name": "Santa Cruz III (Area D)"   
+        },
+        {
+          "id": 42,
+          "fid": "San Jose del Monte City",
+          "name": "Santa Cruz IV (Area D)"   
+        },
+        {
+          "id": 43,
+          "fid": "San Jose del Monte City",
+          "name": "Santa Cruz V (Area D)"   
+        },
+        {
+          "id": 44,
+          "fid": "San Jose del Monte City",
+          "name": "Fatima I (Area E)"   
+        },
+        {
+          "id": 45,
+          "fid": "San Jose del Monte City",
+          "name": "Fatima II (Area E)"   
+        },
+        {
+          "id": 46,
+          "fid": "San Jose del Monte City",
+          "name": "Fatima III (Area E)"   
+        },
+        {
+          "id": 47,
+          "fid": "San Jose del Monte City",
+          "name": "Fatima IV (Area E)"   
+        },
+        {
+          "id": 48,
+          "fid": "San Jose del Monte City",
+          "name": "Fatima V (Area E)"   
+        },
+        {
+          "id": 49,
+          "fid": "San Jose del Monte City",
+          "name": "San Pedro (Area F)"   
+        },
+        {
+          "id": 50,
+          "fid": "San Jose del Monte City",
+          "name": "Citrus (Area G)"   
+        },
+        {
+          "id": 51,
+          "fid": "San Jose del Monte City",
+          "name": "San Rafael I (Area H)"   
+        },
+        {
+          "id": 52,
+          "fid": "San Jose del Monte City",
+          "name": "San Rafael II (Area H)"   
+        },
+        {
+          "id": 53,
+          "fid": "San Jose del Monte City",
+          "name": "San Rafael III (Area H)"   
+        },
+        {
+          "id": 54,
+          "fid": "San Jose del Monte City",
+          "name": "San Rafael IV (Area H)"   
+        },
+        {
+          "id": 55,
+          "fid": "San Jose del Monte City",
+          "name": "San Rafael V (Area H)"   
+        },
+        {
+          "id": 56,
+          "fid": "San Jose del Monte City",
+          "name": "Assumption (Area I)"   
+        },
+        {
+          "id": 57,
+          "fid": "San Jose del Monte City",
+          "name": "Lawang Pari (Area I)"   
+        },
+        {
+          "id": 58,
+          "fid": "San Jose del Monte City",
+          "name": "Santo Niño I (Area I)"   
+        },
+        {
+          "id": 59,
+          "fid": "San Jose del Monte City",
+          "name": "Santo Niño II (Area I)"   
+        },
+        {
+          "id": 60,
+          "fid": "San Jose del Monte City",
+          "name": "San Martin de Porres (Area I)"   
+        },
+        {
+          "id": 61,
+          "fid": "San Jose del Monte City",
+          "name": "Sapang Palay Proper"   
+        },
+        {
+          "id": 62,
+          "fid": "San Jose del Monte City",
+          "name": "Minuyan Proper"   
+        }
+
+]
+
+}
