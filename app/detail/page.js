@@ -14,9 +14,9 @@ export default async function Index() {
 
 
 console.log(data);
-  return data?.users.map((user,Index) => 
+  return data?.users.map((user,index) => 
     <>
-    <Link href={'detail/'+ user.id} key = {user.id}>
+    <Link href={'detail/'+ user.id} key = {index}>
       <h2> {user.name} </h2>
   </Link>
     </>)
