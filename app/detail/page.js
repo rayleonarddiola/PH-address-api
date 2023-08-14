@@ -13,9 +13,9 @@ export default async function Index() {
   const data = await getUsers();
 
 
-console.log(data);
+
   return data?.users.map((user) => 
-    <li key={user.id.toString()}>
+    <li key={user.id}>
     <Link href={'detail/'+ user.id}>
       <h2> {user.name} </h2>
   </Link>
