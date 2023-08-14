@@ -14,11 +14,11 @@ export default async function Index() {
 
 
 console.log(data);
-  return data.users.map((user) => 
-    <div>
+  return data?.users.map((user,Index) => 
+    <>
     <Link href={'detail/'+ user.id} key = {user.id}>
       <h2> {user.name} </h2>
   </Link>
-    </div>)
+    </>)
   
 }
